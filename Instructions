@@ -1,0 +1,12 @@
+Techonology
+---------------------------------
+Front End: React 16.13.1 , Node 12.18.13
+Back End: Core PHP 7.1.16
+
+Steps To Follow
+---------------------------------
+1. Save PlayCards code into working directory
+2. Run npm install @material-ui/core in git bash/command 
+3. Run npm install
+4. Run npm start
+5. Make sure this link has to give some results http://localhost/cards/deck.php (file location inside react folder - Ex: start Wamp or Xamp etc)
